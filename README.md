@@ -1,4 +1,4 @@
-# ExpensesFilter
+# ExpensesTracker
 
 #This project is made by Rajat Pattanaik with the help of Maximilian Schwarzmüller (Professional Web Developer and Instructor) on Udemy.
 # This project focuses on basic react components and gives a nice looking expenses filter.
